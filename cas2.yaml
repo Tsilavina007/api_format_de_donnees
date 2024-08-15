@@ -1,0 +1,18 @@
+school:
+  name: HEI
+  opened: 2021
+  specialization: Informatique
+  students_count: 200
+  students:
+    - reference: STD0001
+      name: Rakoto
+      group:
+        name: A1
+        level: L2
+        academic_year: 2023
+    - reference: STD0002
+      name: Rabe
+      group:
+        name: A2
+        level: L3
+        academic_year: 2023

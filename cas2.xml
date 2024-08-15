@@ -1,0 +1,27 @@
+<school>
+    <name>HEI</name>
+    <opened>2021</opened>
+    <specialization>Informatique</specialization>
+    <students_count>200</students_count>
+    
+    <students>
+        <student>
+            <reference>STD0001</reference>
+            <name>Rakoto</name>
+            <group>
+                <name>A1</name>
+                <level>L2</level>
+                <academic_year>2023</academic_year>
+            </group>
+        </student>
+        <student>
+            <reference>STD0002</reference>
+            <name>Rabe</name>
+            <group>
+                <name>A2</name>
+                <level>L3</level>
+                <academic_year>2023</academic_year>
+            </group>
+        </student>
+    </students>
+</school>
